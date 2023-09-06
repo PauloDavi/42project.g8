@@ -1,0 +1,6 @@
+#ifndef $name_project;format="upper,snake"$_BONUS_H
+# define $name_project;format="upper,snake"$_BONUS_H
+
+# include "libft.h"
+
+#endif
